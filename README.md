@@ -2,15 +2,12 @@
   <img src="" alt="HBnB logo">
 </p>
 
-<h1 align="center">BnB</h1>
-<p align="center">An AirBnB clone.</p>
+<h1 align="center">HBnB</h1>
+<p align="center">An AirBnB clone - The Console.</p>
 
 ---
 
 ## Description :house:
-
-HolbertonBnB is a complete web application, integrating database storage, 
-a back-end API, and front-end interfacing in a clone of AirBnB.
 
 The project currently only implements the back-end console.
 
