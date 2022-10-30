@@ -1,6 +1,7 @@
 <p align="center">An AirBnB clone.</p>
 
 ---
+# ![hbnb logo](https://github.com/shad1991hm/AirBnB_clone/blob/master/assets/images/logo.png)
 
 ## Description :house:
 
